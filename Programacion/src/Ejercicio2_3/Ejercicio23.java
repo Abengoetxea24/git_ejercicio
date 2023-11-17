@@ -13,7 +13,7 @@ public class Ejercicio23 {
 
         boolean esPrimo = true;
 
-        if (numero <= 1) {
+        if (numero < 1) {
             esPrimo = false;
         } else {
             for (int i = 2; i <= numero / 2; i++) {
