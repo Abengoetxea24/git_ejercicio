@@ -18,7 +18,7 @@ public class Ejercicio8 {
     public static double bincalculator(double numero){
         while(numero % 2 == 0){
             mumero /2
-        }ret
+        }
 
     }
 }
